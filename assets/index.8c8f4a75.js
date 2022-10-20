@@ -1,2 +1,0 @@
-import{r as e}from"./react.b3136517.js";import{j as a}from"./antd-mobile.c1604e83.js";import{O as r}from"./index.7cfdca59.js";var i="D:\\ext.likaixin\\Desktop\\wangsiyv\\新建文件夹\\react_ts_wangsiyv\\src\\pages\\Index\\index.tsx";var s=e.exports.memo((()=>a.exports.jsxDEV("div",{className:"tabbar_page",children:a.exports.jsxDEV(r,{},void 0,!1,{fileName:i,lineNumber:8,columnNumber:7},void 0)},void 0,!1,{fileName:i,lineNumber:7,columnNumber:5},void 0)));export{s as default};
-//# sourceMappingURL=index.8c8f4a75.js.map

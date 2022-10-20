@@ -1,2 +1,0 @@
-import{r as e}from"./react.b3136517.js";import{j as r}from"./antd-mobile.c1604e83.js";import{u as a}from"./index.7cfdca59.js";var o=e.exports.memo((()=>{const e=a();return r.exports.jsxDEV("div",{className:"tabbar_page",style:{backgroundColor:"blue"},onClick:()=>e("/other1"),children:"Search"},void 0,!1,{fileName:"D:\\ext.likaixin\\Desktop\\wangsiyv\\新建文件夹\\react_ts_wangsiyv\\src\\pages\\Search\\index.tsx",lineNumber:14,columnNumber:5},void 0)}));export{o as default};
-//# sourceMappingURL=index.3f48e182.js.map
