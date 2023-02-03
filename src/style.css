@@ -19,6 +19,7 @@ body {
   display: flex;
   place-items: center;
   font-size: 37.5px !important;
+  word-break: break-all;
 }
 
 #app {
