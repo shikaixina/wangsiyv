@@ -1,0 +1,1 @@
+import{h as e,j as n}from"./index-9049bcee.js";function a(a,{args:c=[],done:s,canceled:o}){if(a){const t=a.apply(null,c);e(t)?t.then((e=>{e?s():o&&o()})).catch(n):t?s():o&&o()}else s()}export{a as c};
